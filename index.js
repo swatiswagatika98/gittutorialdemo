@@ -1,0 +1,1 @@
+document.getElementById("main-heading").style.backgroundColor="red";
